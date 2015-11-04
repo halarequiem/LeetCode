@@ -1,0 +1,11 @@
+package _257_binaryTreePaths;
+
+public class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+
+	TreeNode(int x) {
+		val = x;
+	}
+}
