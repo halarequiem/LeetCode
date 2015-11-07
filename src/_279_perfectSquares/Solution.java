@@ -54,4 +54,5 @@ public class Solution {
 	
 //定理 369(Lagrange 定理): 每个正整数都是四个平方数之和
 //...
+	private int notsolved;
 }
